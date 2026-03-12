@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M5uAEMjd2CM=",
+  "success": true,
+  "projectFilePath": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Presention\\Presention.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thana\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.8\\microsoft.extensions.dependencyinjection.abstractions.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

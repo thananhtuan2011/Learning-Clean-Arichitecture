@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A279829F-CBEB-47D3-BB8C-F7227D292804}|Infra\\Infra.csproj|d:\\learn_clean_arichitecture\\cleararchitecture\\infra\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A279829F-CBEB-47D3-BB8C-F7227D292804}|Infra\\Infra.csproj|solutionrelative:infra\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDA8ECC-557E-4AD0-8D23-B264B46E305D}|WebApi\\WebApi.csproj|d:\\learn_clean_arichitecture\\cleararchitecture\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEDA8ECC-557E-4AD0-8D23-B264B46E305D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A279829F-CBEB-47D3-BB8C-F7227D292804}|Infra\\Infra.csproj|d:\\learn_clean_arichitecture\\cleararchitecture\\infra\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A279829F-CBEB-47D3-BB8C-F7227D292804}|Infra\\Infra.csproj|solutionrelative:infra\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A279829F-CBEB-47D3-BB8C-F7227D292804}|Infra\\Infra.csproj|d:\\learn_clean_arichitecture\\cleararchitecture\\infra\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A279829F-CBEB-47D3-BB8C-F7227D292804}|Infra\\Infra.csproj|solutionrelative:infra\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63931B7F-9A72-47AE-8E04-3F9B398B16F9}|Domain\\Domain.csproj|d:\\learn_clean_arichitecture\\cleararchitecture\\domain\\options\\connectionstringoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63931B7F-9A72-47AE-8E04-3F9B398B16F9}|Domain\\Domain.csproj|solutionrelative:domain\\options\\connectionstringoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A279829F-CBEB-47D3-BB8C-F7227D292804}|Infra\\Infra.csproj|d:\\learn_clean_arichitecture\\cleararchitecture\\infra\\migrations\\20260312042704_init-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A279829F-CBEB-47D3-BB8C-F7227D292804}|Infra\\Infra.csproj|solutionrelative:infra\\migrations\\20260312042704_init-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5B8D90-DDB6-4629-8E35-B85B5731EEE1}|Application\\Application.csproj|d:\\learn_clean_arichitecture\\cleararchitecture\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5B8D90-DDB6-4629-8E35-B85B5731EEE1}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDA8ECC-557E-4AD0-8D23-B264B46E305D}|WebApi\\WebApi.csproj|d:\\learn_clean_arichitecture\\cleararchitecture\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDA8ECC-557E-4AD0-8D23-B264B46E305D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDA8ECC-557E-4AD0-8D23-B264B46E305D}|WebApi\\WebApi.csproj|d:\\learn_clean_arichitecture\\cleararchitecture\\webapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDA8ECC-557E-4AD0-8D23-B264B46E305D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDA8ECC-557E-4AD0-8D23-B264B46E305D}|WebApi\\WebApi.csproj|d:\\learn_clean_arichitecture\\cleararchitecture\\webapi\\controllers\\areacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDA8ECC-557E-4AD0-8D23-B264B46E305D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\areacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDA8ECC-557E-4AD0-8D23-B264B46E305D}|WebApi\\WebApi.csproj|d:\\learn_clean_arichitecture\\cleararchitecture\\webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EEDA8ECC-557E-4AD0-8D23-B264B46E305D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63931B7F-9A72-47AE-8E04-3F9B398B16F9}|Domain\\Domain.csproj|d:\\learn_clean_arichitecture\\cleararchitecture\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63931B7F-9A72-47AE-8E04-3F9B398B16F9}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63931B7F-9A72-47AE-8E04-3F9B398B16F9}|Domain\\Domain.csproj|d:\\learn_clean_arichitecture\\cleararchitecture\\domain\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63931B7F-9A72-47AE-8E04-3F9B398B16F9}|Domain\\Domain.csproj|solutionrelative:domain\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63931B7F-9A72-47AE-8E04-3F9B398B16F9}|Domain\\Domain.csproj|d:\\learn_clean_arichitecture\\cleararchitecture\\domain\\entities\\areaentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63931B7F-9A72-47AE-8E04-3F9B398B16F9}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\areaentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Infra\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infra\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Infra\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infra\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T04:29:08.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260312042704_Init-database.cs",
+              "DocumentMoniker": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Infra\\Migrations\\20260312042704_Init-database.cs",
+              "RelativeDocumentMoniker": "Infra\\Migrations\\20260312042704_Init-database.cs",
+              "ToolTip": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Infra\\Migrations\\20260312042704_Init-database.cs",
+              "RelativeToolTip": "Infra\\Migrations\\20260312042704_Init-database.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T04:27:05.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AreaController.cs",
+              "DocumentMoniker": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\WebApi\\Controllers\\AreaController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AreaController.cs",
+              "ToolTip": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\WebApi\\Controllers\\AreaController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AreaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T04:09:52.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\WebApi\\appsettings.json*",
+              "RelativeToolTip": "WebApi\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-12T04:04:42.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\WebApi\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "WebApi\\DependencyInjection.cs",
+              "ToolTip": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\WebApi\\DependencyInjection.cs",
+              "RelativeToolTip": "WebApi\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T03:59:20.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T03:53:32.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnectionStringOptions.cs",
+              "DocumentMoniker": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Domain\\Options\\ConnectionStringOptions.cs",
+              "RelativeDocumentMoniker": "Domain\\Options\\ConnectionStringOptions.cs",
+              "ToolTip": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Domain\\Options\\ConnectionStringOptions.cs",
+              "RelativeToolTip": "Domain\\Options\\ConnectionStringOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T03:40:37.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Domain\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Domain\\DependencyInjection.cs",
+              "ToolTip": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Domain\\DependencyInjection.cs",
+              "RelativeToolTip": "Domain\\DependencyInjection.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T03:33:34.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Infra\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infra\\DependencyInjection.cs",
+              "ToolTip": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Infra\\DependencyInjection.cs",
+              "RelativeToolTip": "Infra\\DependencyInjection.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T03:33:04.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AreaEntities.cs",
+              "DocumentMoniker": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Domain\\Entities\\AreaEntities.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\AreaEntities.cs",
+              "ToolTip": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Domain\\Entities\\AreaEntities.cs",
+              "RelativeToolTip": "Domain\\Entities\\AreaEntities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T03:30:55.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Infra\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infra\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Infra\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infra\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T03:25:21.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\WebApi\\Dockerfile",
+              "RelativeDocumentMoniker": "WebApi\\Dockerfile",
+              "ToolTip": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\WebApi\\Dockerfile",
+              "RelativeToolTip": "WebApi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-29T03:44:30.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-29T03:38:47.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T07:10:23.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

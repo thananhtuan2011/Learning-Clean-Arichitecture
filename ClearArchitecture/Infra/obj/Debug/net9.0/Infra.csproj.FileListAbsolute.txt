@@ -1,0 +1,17 @@
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\bin\Debug\net9.0\Infra.deps.json
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\bin\Debug\net9.0\Infra.dll
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\bin\Debug\net9.0\Infra.pdb
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\obj\Debug\net9.0\Infra.csproj.AssemblyReference.cache
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\obj\Debug\net9.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\obj\Debug\net9.0\Infra.AssemblyInfoInputs.cache
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\obj\Debug\net9.0\Infra.AssemblyInfo.cs
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\obj\Debug\net9.0\Infra.csproj.CoreCompileInputs.cache
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\obj\Debug\net9.0\Infra.dll
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\obj\Debug\net9.0\refint\Infra.dll
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\obj\Debug\net9.0\Infra.pdb
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\obj\Debug\net9.0\ref\Infra.dll
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\bin\Debug\net9.0\Infra.runtimeconfig.json
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\obj\Debug\net9.0\Infra.genruntimeconfig.cache
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\bin\Debug\net9.0\Domain.dll
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\bin\Debug\net9.0\Domain.pdb
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\obj\Debug\net9.0\Infra.csproj.Up2Date

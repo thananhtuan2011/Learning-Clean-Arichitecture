@@ -1,0 +1,12 @@
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Presention\bin\Debug\net9.0\Presention.deps.json
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Presention\bin\Debug\net9.0\Presention.dll
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Presention\bin\Debug\net9.0\Presention.pdb
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Presention\obj\Debug\net9.0\Presention.csproj.AssemblyReference.cache
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Presention\obj\Debug\net9.0\Presention.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Presention\obj\Debug\net9.0\Presention.AssemblyInfoInputs.cache
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Presention\obj\Debug\net9.0\Presention.AssemblyInfo.cs
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Presention\obj\Debug\net9.0\Presention.csproj.CoreCompileInputs.cache
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Presention\obj\Debug\net9.0\Presention.dll
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Presention\obj\Debug\net9.0\refint\Presention.dll
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Presention\obj\Debug\net9.0\Presention.pdb
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Presention\obj\Debug\net9.0\ref\Presention.dll
