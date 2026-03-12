@@ -15,3 +15,4 @@ D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\obj\Debug\net9.0\Infra.genr
 D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\bin\Debug\net9.0\Domain.dll
 D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\bin\Debug\net9.0\Domain.pdb
 D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\obj\Debug\net9.0\Infra.csproj.Up2Date
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Infra\obj\Debug\net9.0\Infra.sourcelink.json

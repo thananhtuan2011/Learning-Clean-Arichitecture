@@ -1,5 +1,7 @@
-﻿using Domain.Options;
+﻿using Domain.Interface;
+using Domain.Options;
 using Infra.Data;
+using Infra.Responsitories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -21,7 +23,7 @@ namespace Infra
                 // Fix: Use the 'configuration' parameter directly instead of 'provider.Configuration'  
                 options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"), b => b.MigrationsAssembly("Infra"));
             });
-            //services.AddScoped<ICustomerRepository, CustomerRepository>();  
+            services.AddScoped<IAreaResponsitories, AreaResponsitories>();  
             return services;
         }
     }

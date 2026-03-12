@@ -10,3 +10,4 @@ D:\Learn_Clean_Arichitecture\ClearArchitecture\Domain\obj\Debug\net9.0\refint\Do
 D:\Learn_Clean_Arichitecture\ClearArchitecture\Domain\obj\Debug\net9.0\Domain.pdb
 D:\Learn_Clean_Arichitecture\ClearArchitecture\Domain\obj\Debug\net9.0\ref\Domain.dll
 D:\Learn_Clean_Arichitecture\ClearArchitecture\Domain\obj\Debug\net9.0\Domain.csproj.AssemblyReference.cache
+D:\Learn_Clean_Arichitecture\ClearArchitecture\Domain\obj\Debug\net9.0\Domain.sourcelink.json
