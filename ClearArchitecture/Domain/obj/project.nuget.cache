@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OBUKsYG5b30=",
+  "dgSpecHash": "8A1APMRSzpE=",
   "success": true,
-  "projectFilePath": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\Learning-Clean-Arichitecture\\ClearArchitecture\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thana\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.8\\microsoft.extensions.configuration.abstractions.9.0.8.nupkg.sha512",
     "C:\\Users\\thana\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.8\\microsoft.extensions.configuration.binder.9.0.8.nupkg.sha512",

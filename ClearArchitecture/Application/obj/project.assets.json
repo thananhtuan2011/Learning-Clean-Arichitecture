@@ -827,11 +827,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\Learning-Clean-Arichitecture\\ClearArchitecture\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Application\\Application.csproj",
+      "projectPath": "D:\\Learning-Clean-Arichitecture\\ClearArchitecture\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
-      "outputPath": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Application\\obj\\",
+      "outputPath": "D:\\Learning-Clean-Arichitecture\\ClearArchitecture\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -852,8 +852,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Domain\\Domain.csproj"
+            "D:\\Learning-Clean-Arichitecture\\ClearArchitecture\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Learning-Clean-Arichitecture\\ClearArchitecture\\Domain\\Domain.csproj"
             }
           }
         }

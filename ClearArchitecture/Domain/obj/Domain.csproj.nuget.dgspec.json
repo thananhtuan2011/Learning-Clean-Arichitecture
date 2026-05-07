@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Domain\\Domain.csproj": {}
+    "D:\\Learning-Clean-Arichitecture\\ClearArchitecture\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Domain\\Domain.csproj": {
+    "D:\\Learning-Clean-Arichitecture\\ClearArchitecture\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Learning-Clean-Arichitecture\\ClearArchitecture\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Learning-Clean-Arichitecture\\ClearArchitecture\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Domain\\obj\\",
+        "outputPath": "D:\\Learning-Clean-Arichitecture\\ClearArchitecture\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

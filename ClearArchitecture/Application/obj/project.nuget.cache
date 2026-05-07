@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2vfK1ThshYw=",
+  "dgSpecHash": "qoVI/Ho4k6g=",
   "success": true,
-  "projectFilePath": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Application\\Application.csproj",
+  "projectFilePath": "D:\\Learning-Clean-Arichitecture\\ClearArchitecture\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thana\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
     "C:\\Users\\thana\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.0.0\\fluentvalidation.dependencyinjectionextensions.12.0.0.nupkg.sha512",

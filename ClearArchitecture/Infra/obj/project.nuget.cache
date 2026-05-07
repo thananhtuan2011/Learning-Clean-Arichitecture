@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9yx9qcYa4jg=",
+  "dgSpecHash": "sQo2g3Ar1X8=",
   "success": true,
-  "projectFilePath": "D:\\Learn_Clean_Arichitecture\\ClearArchitecture\\Infra\\Infra.csproj",
+  "projectFilePath": "D:\\Learning-Clean-Arichitecture\\ClearArchitecture\\Infra\\Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thana\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\thana\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
