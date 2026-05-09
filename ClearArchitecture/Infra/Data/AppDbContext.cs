@@ -1,4 +1,5 @@
 ﻿using Domain.Entities;
+using Domain.Entities.User;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -12,5 +13,7 @@ namespace Infra.Data
     {
 
         public DbSet<AreaEntities> Areas { get; set; }
+        public DbSet<UserEntities> Users { get; set; }
+        
     }
 }

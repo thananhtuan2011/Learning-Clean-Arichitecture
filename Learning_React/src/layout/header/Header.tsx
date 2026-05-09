@@ -1,5 +1,5 @@
 import { Button } from 'antd'
-import React, { useEffect } from 'react'
+import { useEffect } from 'react'
 
 export default function Header() {
     useEffect(() => {

@@ -10,4 +10,5 @@ namespace Domain.Entities.Base
     {
         public T Id { get; set; }
     }
+    public abstract class BaseIdEntity : BaseEntity<int> { }
 }

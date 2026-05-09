@@ -1,15 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "8A1APMRSzpE=",
+  "dgSpecHash": "rFp8TzvtAN8=",
   "success": true,
   "projectFilePath": "D:\\Learning-Clean-Arichitecture\\ClearArchitecture\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\thana\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\thana\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "C:\\Users\\thana\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.3.9\\microsoft.aspnetcore.mvc.abstractions.2.3.9.nupkg.sha512",
+    "C:\\Users\\thana\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.3.0\\microsoft.aspnetcore.routing.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\thana\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.8\\microsoft.extensions.configuration.abstractions.9.0.8.nupkg.sha512",
     "C:\\Users\\thana\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.8\\microsoft.extensions.configuration.binder.9.0.8.nupkg.sha512",
     "C:\\Users\\thana\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.8\\microsoft.extensions.dependencyinjection.abstractions.9.0.8.nupkg.sha512",
     "C:\\Users\\thana\\.nuget\\packages\\microsoft.extensions.options\\9.0.8\\microsoft.extensions.options.9.0.8.nupkg.sha512",
     "C:\\Users\\thana\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\9.0.8\\microsoft.extensions.options.configurationextensions.9.0.8.nupkg.sha512",
-    "C:\\Users\\thana\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.8\\microsoft.extensions.primitives.9.0.8.nupkg.sha512"
+    "C:\\Users\\thana\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.8\\microsoft.extensions.primitives.9.0.8.nupkg.sha512",
+    "C:\\Users\\thana\\.nuget\\packages\\microsoft.net.http.headers\\2.3.8\\microsoft.net.http.headers.2.3.8.nupkg.sha512",
+    "C:\\Users\\thana\\.nuget\\packages\\system.buffers\\4.6.0\\system.buffers.4.6.0.nupkg.sha512",
+    "C:\\Users\\thana\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

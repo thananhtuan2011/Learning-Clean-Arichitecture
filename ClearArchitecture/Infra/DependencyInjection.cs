@@ -23,7 +23,9 @@ namespace Infra
                 // Fix: Use the 'configuration' parameter directly instead of 'provider.Configuration'  
                 options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"), b => b.MigrationsAssembly("Infra"));
             });
-            services.AddScoped<IAreaResponsitories, AreaResponsitories>();  
+            services.AddScoped<IAreaResponsitories, AreaResponsitories>();
+            services.AddScoped<IUserIdentity, UserIdentityResponsitories>();
+            
             return services;
         }
     }

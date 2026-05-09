@@ -11,3 +11,16 @@ D:\Learn_Clean_Arichitecture\ClearArchitecture\Domain\obj\Debug\net9.0\Domain.pd
 D:\Learn_Clean_Arichitecture\ClearArchitecture\Domain\obj\Debug\net9.0\ref\Domain.dll
 D:\Learn_Clean_Arichitecture\ClearArchitecture\Domain\obj\Debug\net9.0\Domain.csproj.AssemblyReference.cache
 D:\Learn_Clean_Arichitecture\ClearArchitecture\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+D:\Learning-Clean-Arichitecture\ClearArchitecture\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\Learning-Clean-Arichitecture\ClearArchitecture\Domain\bin\Debug\net9.0\Domain.dll
+D:\Learning-Clean-Arichitecture\ClearArchitecture\Domain\bin\Debug\net9.0\Domain.pdb
+D:\Learning-Clean-Arichitecture\ClearArchitecture\Domain\obj\Debug\net9.0\Domain.csproj.AssemblyReference.cache
+D:\Learning-Clean-Arichitecture\ClearArchitecture\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning-Clean-Arichitecture\ClearArchitecture\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\Learning-Clean-Arichitecture\ClearArchitecture\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\Learning-Clean-Arichitecture\ClearArchitecture\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\Learning-Clean-Arichitecture\ClearArchitecture\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+D:\Learning-Clean-Arichitecture\ClearArchitecture\Domain\obj\Debug\net9.0\Domain.dll
+D:\Learning-Clean-Arichitecture\ClearArchitecture\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\Learning-Clean-Arichitecture\ClearArchitecture\Domain\obj\Debug\net9.0\Domain.pdb
+D:\Learning-Clean-Arichitecture\ClearArchitecture\Domain\obj\Debug\net9.0\ref\Domain.dll

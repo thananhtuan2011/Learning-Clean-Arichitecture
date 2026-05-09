@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qoVI/Ho4k6g=",
+  "dgSpecHash": "CoYwFXeTips=",
   "success": true,
   "projectFilePath": "D:\\Learning-Clean-Arichitecture\\ClearArchitecture\\Application\\Application.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,10 @@
     "C:\\Users\\thana\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.0.0\\fluentvalidation.dependencyinjectionextensions.12.0.0.nupkg.sha512",
     "C:\\Users\\thana\\.nuget\\packages\\mediatr\\13.0.0\\mediatr.13.0.0.nupkg.sha512",
     "C:\\Users\\thana\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\thana\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\thana\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "C:\\Users\\thana\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.3.9\\microsoft.aspnetcore.mvc.abstractions.2.3.9.nupkg.sha512",
+    "C:\\Users\\thana\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.3.0\\microsoft.aspnetcore.routing.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\thana\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.8\\microsoft.extensions.configuration.abstractions.9.0.8.nupkg.sha512",
     "C:\\Users\\thana\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.8\\microsoft.extensions.configuration.binder.9.0.8.nupkg.sha512",
     "C:\\Users\\thana\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
@@ -20,7 +24,10 @@
     "C:\\Users\\thana\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.0.1\\microsoft.identitymodel.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\thana\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.0.1\\microsoft.identitymodel.jsonwebtokens.8.0.1.nupkg.sha512",
     "C:\\Users\\thana\\.nuget\\packages\\microsoft.identitymodel.logging\\8.0.1\\microsoft.identitymodel.logging.8.0.1.nupkg.sha512",
-    "C:\\Users\\thana\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.0.1\\microsoft.identitymodel.tokens.8.0.1.nupkg.sha512"
+    "C:\\Users\\thana\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.0.1\\microsoft.identitymodel.tokens.8.0.1.nupkg.sha512",
+    "C:\\Users\\thana\\.nuget\\packages\\microsoft.net.http.headers\\2.3.8\\microsoft.net.http.headers.2.3.8.nupkg.sha512",
+    "C:\\Users\\thana\\.nuget\\packages\\system.buffers\\4.6.0\\system.buffers.4.6.0.nupkg.sha512",
+    "C:\\Users\\thana\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
